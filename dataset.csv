@@ -1,0 +1,6 @@
+user_id,step_id,skill,current_response,past_responses
+1,101,Rounding,1,0011100101
+1,102,Multiplication and Division Integers,0,1010110101
+1,103,Proportion,1,0011011101
+1,104,Exponents,0,1100101101
+1,105,Equation Solving Two or Fewer Steps,1,0101110101
