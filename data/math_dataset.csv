@@ -1,0 +1,16 @@
+Skill,Step,Correctness,PastResponses
+Addition,Step1,0,0100010001
+Addition,Step2,0,0001011101
+Addition,Step3,1,1111111100
+Subtraction,Step1,1,1101000001
+Subtraction,Step2,0,1110110101
+Subtraction,Step3,1,1100000000
+Multiplication,Step1,1,1011110101
+Multiplication,Step2,0,1010101001
+Multiplication,Step3,1,1111111111
+Division,Step1,0,0011111111
+Division,Step2,1,1011010110
+Division,Step3,0,0100110111
+Algebra,Step1,1,0000000010
+Algebra,Step2,0,1100001000
+Algebra,Step3,1,0101010011
